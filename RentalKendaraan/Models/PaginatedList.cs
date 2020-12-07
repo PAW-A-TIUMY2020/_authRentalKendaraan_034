@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace RentalKendaraan_034.Models
+namespace RentalKendaraan.Models
 {
     public class PaginatedList<T> : List<T>
     {

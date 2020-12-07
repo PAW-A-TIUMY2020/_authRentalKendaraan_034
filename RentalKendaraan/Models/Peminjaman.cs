@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace RentalKendaraan_034.Models
+namespace RentalKendaraan.Models
 {
     public partial class Peminjaman
     {

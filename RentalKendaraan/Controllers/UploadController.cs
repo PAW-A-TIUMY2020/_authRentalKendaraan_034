@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.FileProviders;
-using RentalKendaraan_034.Models.Upload;
+using RentalKendaraan.Models.Upload;
 
-namespace RentalKendaraan_034.Controllers
+namespace RentalKendaraan.Controllers
 {
     public class UploadController : Controller
     {

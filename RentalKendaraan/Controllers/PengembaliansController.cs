@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using RentalKendaraan_034.Models;
+using RentalKendaraan.Models;
 
-namespace RentalKendaraan_034.Controllers
+namespace RentalKendaraan.Controllers
 {
     public class PengembaliansController : Controller
     {

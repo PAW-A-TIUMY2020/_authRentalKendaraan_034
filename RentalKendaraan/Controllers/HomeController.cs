@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using RentalKendaraan_034.Models;
+using RentalKendaraan.Models;
 
-namespace RentalKendaraan_034.Controllers
+namespace RentalKendaraan.Controllers
 {
     public class HomeController : Controller
     {
